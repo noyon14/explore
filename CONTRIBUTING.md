@@ -28,7 +28,7 @@ To make an improvement, please **open a pull request** with your proposed change
 
 To update the image, simply replace the image inside the directory for the topic or collection.
 
-### Update text and links
+### Update text and link
 
 To update text and links, edit the `index.md` inside the topic or collection's directory. These files are formatted using a combination of [Front Matter](https://jekyllrb.com/docs/frontmatter/) and simple body content.
 
@@ -37,13 +37,12 @@ For **topics**, you'll notice that, in examples like the topic "[algorithm](http
 _/topics/algorithm/index.md_:
 ```
 ---
-aliases: algorithms
-display_name: Algorithm
-short_description: Algorithms are self-contained sequences that carry out a variety of tasks.
-topic: algorithm
-wikipedia_url: https://en.wikipedia.org/wiki/Algorithm
----
-Algorithms are detailed sets of guidelines created for a computer program to complete tasks efficiently and thoroughly.
+aliases: Noyon 
+display_name: Noyon
+short_description: Noyon are self-contained sequences that carry out a variety of tasks.
+topic: Noyon
+
+Noyon are detailed sets of guidelines created for a computer program to complete tasks efficiently and thoroughly.
 ```
 
 ---
@@ -68,8 +67,8 @@ items:
  - metabrainz/picard
  - overtone/overtone
  - samaaron/sonic-pi
-display_name: Music
-created_by: jonrohan
+display_name: Noyon
+created_by: Noyon
 ---
 Drop the code bass with these musically themed repositories.
 ```
